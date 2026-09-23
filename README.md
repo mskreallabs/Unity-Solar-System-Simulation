@@ -1,7 +1,7 @@
 # 🪐 Solar System Simulation
 
 <p align="center">
-  <img src="Photos/Banner.png" alt="Project Banner" width="900">
+  <img src="Assets/images/Cover-Unity-SolarSystem.png" alt="Project Banner" width="900">
 </p>
 
 <p align="center">
@@ -73,30 +73,21 @@ The following screenshots show the project in action.
 
 <div style="overflow-x:auto; white-space:nowrap;">
 
-<a href="Photos/picture1.png">
-<img src="Photos/picture1.png" alt="Screenshot 1" width="320">
+<a href="Assets/images/SolarSystemScreenShot0.png">
+<img src="Assets/images/SolarSystemScreenShot0.png" alt="Screenshot 1" width="320">
 </a>
 
-<a href="Photos/picture2.png">
-<img src="Photos/picture2.png" alt="Screenshot 2" width="320">
+<a href="Assets/images/SolarSystemScreenShot1.png">
+<img src="Assets/images/SolarSystemScreenShot1.png" alt="Screenshot 2" width="320">
 </a>
 
-<a href="Photos/Picture3.png">
-<img src="Photos/Picture3.png" alt="Screenshot 2" width="320">
+<a href="Assets/images/SolarSystemScreenShot2.png">
+<img src="Assets/images/SolarSystemScreenShot2.png" alt="Screenshot 2" width="320">
 </a>
 </div>
 
 
-## ▶️ Watch The Project 🎬 Demo Video
-<p align="center">
-  <a href="https://github.com/mskreallabs/Unity-Solar-System-Simulation">
-    <img src="Photos/Banner.png" alt="Solar System Simulation project" width="800">
-  </a>
-</p>
 
-> Click the Video above to watch the full demonstration.
-
----
 
 # 🛠️ Built With
 
@@ -402,7 +393,7 @@ Want to discuss the project?
 # 👨‍💻 Developer
 
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkNREU1xVwXxXsDGLI3fJLlpaqfO9Qt3E7jX_MTPziu8KIDi-G744D1BUbffG-mHtws9HFsnax8zIyXzlF2Qsm8BV_6voGZsRptFIU3Hu-FovTljLZM7Tb1bWujbGfsq-iPePFY-9acyx4jsC_24OjLu9qJ3y7RcyYxQ0kCuc2HjldUHivj61ndfVx1K7o/s320/logo%20new%203.png" width="120" alt="MSK Real Labs">
+<img src="Assets/images/Logo-WithoutBackground.png" width="120" alt="MSK Real Labs">
 
 </p>
 
